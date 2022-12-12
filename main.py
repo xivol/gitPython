@@ -35,5 +35,5 @@ pygame.draw.polygon(screen, RECT_COLOR, poly)
 pygame.display.flip()
 while pygame.event.wait().type != pygame.QUIT:
     pass
-
+#
 pygame.quit()
