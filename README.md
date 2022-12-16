@@ -2,6 +2,7 @@
 Example Git For AyALy
 
 gitFlow:
+
 -2. Зарегистрироваться на *GitHub*
 -1. Сообщить мне логин.
 0. Принять *Invitation* в этот Репозиторий
