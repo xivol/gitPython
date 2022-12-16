@@ -1,1 +1,4 @@
 My super games:
+    My_Game (Zolotarev)
+    Something like Tic Tac Toe, but with bigger field and the main idea is that you have to drop
+    chips from above and collect five chips in a row (Vertically, horizontally or diagonally)
