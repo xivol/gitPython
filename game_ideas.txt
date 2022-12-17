@@ -1,3 +1,4 @@
-My super games:
- 1. Arkanoid: destroy blocks
- 2. Some simple game like space inaders or flappy bird (Hurdayan)
+Эволюция
+переделать настольную игру под компьютер
+правила:
+https://www.igroved.ru/rules/rules_evolution_rus.pdf
