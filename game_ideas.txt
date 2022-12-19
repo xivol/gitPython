@@ -1,2 +1,11 @@
-Space invanders
+
+My super games:
+ 1. Arkanoid: destroy blocks
+ 2. Some simple game like space inaders or flappy bird (Hurdayan)
+ 3. Grebeshenko 
+    Игрок должен избежать удара с летящими на него предметами с разных сторон скорость увеличивается с течением времени
+ 4. My_Game (Zolotarev)
+    Something like Tic Tac Toe, but with bigger field and the main idea is that you have to drop
+    chips from above and collect five chips in a row (Vertically, horizontally or diagonally
+ 5. Space invanders(Osipov)
     Супер самолётик летает в космосе и сбивает космические объекты
