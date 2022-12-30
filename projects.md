@@ -16,8 +16,8 @@
 Tetris:   
    * Золотарев - Друк
    * https://github.com/ZolotarevAlexandr/tetris_pygame_project
-   * ![maket1](images/IMG_20221226_155403%20(1).jpg)
-   * ![maket2](images/IMG-20221226-WA0000.jpeg)
+   * ![tetris-maket1](images/IMG_20221226_155403%20(1).jpg)
+   * ![tetris-maket2](images/IMG-20221226-WA0000.jpeg)
       
 Space-Invaders++:
    * Гребещенко - Хурдаян
