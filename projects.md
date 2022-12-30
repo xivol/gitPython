@@ -3,7 +3,7 @@
 Змейка:
    * Трусов - Турбанов
    * https://github.com/heatmeet/GameSnake
-   * [snake-maket1](images/1dd1c00d-4bde-48a9-846f-3ce4a2d39232.jpg)
+   * ![snake-maket1](images/1dd1c00d-4bde-48a9-846f-3ce4a2d39232.jpg)
    
 
 Воздушный шар:
