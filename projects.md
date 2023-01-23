@@ -1,4 +1,4 @@
-projects### PROJECTS:
+### PROJECTS:
 
 Змейка:
    * [Описание]()
@@ -15,6 +15,7 @@ projects### PROJECTS:
 Эволюция:
    * [Описание](https://www.mosigra.ru/image/data/mosigra.product.other/425/474/Evolution.pdf)
    * Бутин - Ткаченко
+   * https://github.com/LoweB007/RNDLoweBoutin
 
 Tetris:
    * [Описание]()   
@@ -26,10 +27,12 @@ Tetris:
 Space-Invaders++:
    * [Описание]
    * Гребещенко - Хурдаян
+   * [GIT]
 
-???:
+Tetris???:
    * [Описание]
    * Бутов - Осипов
+   * [GIT]
    
    
  1. Сделать репозиторий для проекта
