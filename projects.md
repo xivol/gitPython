@@ -27,7 +27,7 @@ Tetris:
 Space-Invaders++:
    * [Описание]
    * Гребещенко - Хурдаян
-   * [GIT]
+   * [GIT](https://github.com/XavierSantori/YandexPyGame)
 
 Tetris???:
    * [Описание]
