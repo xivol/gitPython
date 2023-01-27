@@ -32,7 +32,7 @@ Space-Invaders++:
 Tetris???:
    * [Описание]
    * Бутов - Осипов
-   * [GIT]
+   * [GIT](https://github.com/swyatoslavik/Tetris)
    
    
  1. Сделать репозиторий для проекта
