@@ -29,7 +29,7 @@ Space-Invaders++:
    * Гребещенко - Хурдаян
    * [GIT](https://github.com/XavierSantori/YandexPyGame)
 
-Tetris???:
+Snetris:
    * [Описание]
    * Бутов - Осипов
    * [GIT](https://github.com/swyatoslavik/Tetris)
