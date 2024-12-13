@@ -1,5 +1,7 @@
 # gitPython
 Example Git For AyALy
+Some changes 
+
 
 gitFlow:
 
