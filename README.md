@@ -1,4 +1,1 @@
-# gitPython
-Example for YALyceum
-
-kashdfkhasdkfhkjashd
+сюжетная игра с элементами хоррора. Команда: Андрей и Игорь
