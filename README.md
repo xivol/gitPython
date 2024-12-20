@@ -1,4 +1,7 @@
 # gitPython
-Example for YALyceum
+Example for xivol
 
-kashdfkhasdkfhkjashd
+В планах сделать игру на основе "Space Invaders" с улучшениями.
+Есть представление реализации и некоторых интересных механик.
+команды нет(
+Если есть возможность хотелбы делать один.
