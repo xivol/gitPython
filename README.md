@@ -3,6 +3,7 @@
 
 ## Наши команды:
 0. alksdjflkajsdlkfjlaskjdfjlkasdf
+kajsdfjaslkdjfljasldkjflaksdfas
 1. Нагорский А., Меньшикова Е.
 2. Барашев В., Самарин И.
 3. Савченко М., __Павленко М., Голованева Д.__
