@@ -7,7 +7,7 @@
 3. Савченко М., __Павленко М., Голованева Д.__ [https://github.com/mirusmeta/pyGameFork](https://github.com/mirusmeta/pyGameFork)
 4. Любавский И., Мельниченко Р.
 5. Валиева Е., Борисов А.
-6. Шарков В., Комарова А.
+6. Шарков В., Комарова А. [https://github.com/Vladimir-creator-rnd/Repo-YaL-1.git](https://github.com/Vladimir-creator-rnd/Repo-YaL-1.git)
 7. Коноплева А., Кечуткин И., Кривоногов А.
 8. Гончарова В., Варницкая М., Язвинский Г., Зенков Г.
 9. Борисов Р., __Черников Д.__
