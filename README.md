@@ -1,11 +1,10 @@
-=======
 # gitPython
 
 ## Наши команды:
-1. Нагорский А., Меньшикова Е. []()
+1. Нагорский А., Меньшикова Е. [https://github.com/NagorskiyArtyom/Nagorskiy-Menshikova-Project2](https://github.com/NagorskiyArtyom/Nagorskiy-Menshikova-Project2)
 2. Барашев В., Самарин И. [https://github.com/VovanDelion/SP9000](https://github.com/VovanDelion/SP9000)
 3. Савченко М., __Павленко М., Голованева Д.__ [https://github.com/mirusmeta/pyGameFork](https://github.com/mirusmeta/pyGameFork)
-4. Любавский И., Мельниченко Р. []()
+4. Любавский И., Мельниченко Р. [https://github.com/lubaskinc0de/funny_jump](https://github.com/lubaskinc0de/funny_jump)
 5. Валиева Е., Борисов А. [https://github.com/dfgdgdge123/PixelKingdom](https://github.com/dfgdgdge123/PixelKingdom)
 6. Шарков В., Комарова А. [https://github.com/Vladimir-creator-rnd/Repo-YaL-1](https://github.com/Vladimir-creator-rnd/Repo-YaL-1)
 7. Коноплева А., Кечуткин И., Кривоногов А. [https://github.com/k1rcocichka/cursed_wood/tree/data](https://github.com/k1rcocichka/cursed_wood/tree/data)
