@@ -1,4 +1,4 @@
-# gitPython
+# Проект Pygame
 
 ## Наши команды:
 1. Нагорский А., Меньшикова Е. [https://github.com/NagorskiyArtyom/Nagorskiy-Menshikova-Project2](https://github.com/NagorskiyArtyom/Nagorskiy-Menshikova-Project2)
