@@ -2,19 +2,19 @@
 # gitPython
 
 ## Наши команды:
-1. Нагорский А., Меньшикова Е.
+1. Нагорский А., Меньшикова Е. []()
 2. Барашев В., Самарин И. [https://github.com/VovanDelion/SP9000](https://github.com/VovanDelion/SP9000)
 3. Савченко М., __Павленко М., Голованева Д.__ [https://github.com/mirusmeta/pyGameFork](https://github.com/mirusmeta/pyGameFork)
-4. Любавский И., Мельниченко Р.
-5. Валиева Е., Борисов А.
-6. Шарков В., Комарова А. [https://github.com/Vladimir-creator-rnd/Repo-YaL-1.git](https://github.com/Vladimir-creator-rnd/Repo-YaL-1.git)
-7. Коноплева А., Кечуткин И., Кривоногов А.
-8. Гончарова В., Варницкая М., Язвинский Г., Зенков Г.
-9. Борисов Р., __Черников Д.__
-10. __Казарников С., Шульга Г.__
-11. __Сага Я., КадченкоТ.__
-12. __Павлова Я., Васильев С.__
-13. __Бегун А., Дубоносов Л.__
+4. Любавский И., Мельниченко Р. []()
+5. Валиева Е., Борисов А. [https://github.com/dfgdgdge123/PixelKingdom](https://github.com/dfgdgdge123/PixelKingdom)
+6. Шарков В., Комарова А. [https://github.com/Vladimir-creator-rnd/Repo-YaL-1](https://github.com/Vladimir-creator-rnd/Repo-YaL-1)
+7. Коноплева А., Кечуткин И., Кривоногов А. [https://github.com/k1rcocichka/cursed_wood/tree/data](https://github.com/k1rcocichka/cursed_wood/tree/data)
+8. Гончарова В., Варницкая М., Язвинский Г., Зенков Г. [https://github.com/Gleb15920/3DGame](https://github.com/Gleb15920/3DGame)
+9. Борисов Р., __Черников Д.__ [https://github.com/Kingrane/pygame_proj](https://github.com/Kingrane/pygame_proj)
+10. __Казарников С., Шульга Г.__ [https://github.com/IISERGEYII/Project_Kazarnikov_And_Shulga](https://github.com/IISERGEYII/Project_Kazarnikov_And_Shulga)
+11. __Сага Я., Кадченко Т.__ [https://github.com/xeon-cloud/spaceshooter-pg](https://github.com/xeon-cloud/spaceshooter-pg)
+12. __Павлова Я., Васильев С.__ [https://github.com/ssvXD/gitflow](https://github.com/ssvXD/gitflow)
+13. __Бегун А., Дубоносов Л.__ [https://github.com/LevDubonosov/Pac-Man](https://github.com/LevDubonosov/Pac-Man)
 
 ## Нагорский Артём и Меньшикова Екатерина
 
