@@ -21,6 +21,7 @@
 | 5. | **[Match](./match.md)** | Нагорский Артём, Меньшикова Екатерина |🟩⬜⬜⬜⬜⬜⬜|
 | 6. | []() | Григорий Шульга, Казарников Сергей |🟩⬜⬜⬜⬜⬜⬜|
 | 7. | **[Infinity_Investments](https://github.com/georgeY1707/Infinity_Investments/blob/master/README.md)** | Язвинский Георгий, Савченко Михаил |🟩🟩🟩🟩🟩🟩🟩|
+| 8. | **[Prepodavatel.online](https://github.com/ssvXD/devHack_komandochka.git)** | Антон Бегун, Васильев Сергей, Павлова Ярослава |🟩🟩🟩🟩🟩🟩🟩|
 
 *Это пример* 
 1. Василий Иванович, Иван Васильевич: [Название проекта](./Ссылка_на_ридми.md) 
