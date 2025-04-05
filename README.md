@@ -21,11 +21,11 @@
 | 5. | **[Fridgechef](./fridgechef.md)** | Ева Валиева, Антон Борисов |🟩🟨⬜⬜⬜⬜⬜|
 | 6. | **[Match](./match.md)** | Нагорский Артём, Меньшикова Екатерина |🟩🟩⬜⬜⬜⬜⬜|
 | 7. | **[Geocoders](./geocoders.md)** | Григорий Шульга, Казарников Сергей |🟩🟨⬜⬜⬜⬜⬜|
-| 8. | **[Infinity_Investments](https://github.com/georgeY1707/Infinity_Investments/blob/master/README.md)** | Язвинский Георгий, Савченко Михаил |🟩🟨⬜⬜⬜⬜⬜|
+| 8. | **[Infinity_Investments](https://github.com/georgeY1707/Infinity_Investments/blob/master/README.md)** | Язвинский Георгий, Савченко Михаил |🟩🟩⬜⬜⬜⬜⬜|
 | 9. | **[Prepodavatel.online](https://github.com/ssvXD/devHack_komandochka.git)** | Антон Бегун, Васильев Сергей, Павлова Ярослава |🟩🟨⬜⬜⬜⬜⬜|
-| 10. | **[отдайвинчик](./munuaGLEB.md)** | Зенков Глеб, Варницкая Мария |🟩🟨⬜⬜⬜⬜⬜|
+| 10. | **[отдайвинчик](./munuaGLEB.md)** | Зенков Глеб, Варницкая Мария |🟩🟩⬜⬜⬜⬜⬜|
 | 11. | **[Proxyma_CryptoBot](https://github.com/Rostov-on-Don-Komarova/Proxima_CryptoBot/blob/main/README.md)** | Шарков Владимир, Комарова Алёна |🟩🟨⬜⬜⬜⬜⬜|
-| 12. | **[]()** | Голованева Дарья, ??? |🟩🟨⬜⬜⬜⬜⬜|
+| 12. | **[МирУголков](./МирУголков.txt)** | Голованева Дарья, ??? |🟩🟨⬜⬜⬜⬜⬜|
 
 
 *Это пример* 
