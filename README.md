@@ -18,7 +18,7 @@
 | 2. | **[Fizmatik](./fizmatik.md)** | Борисов Роман, Черников Дмитрий |🟩🟨⬜⬜⬜⬜⬜|
 | 3. | **[VPBot](https://github.com/VovanDelion/VPBot/blob/master/readme.md)** | Барашев Владимир, Самарин Илья |🟩🟩⬜⬜⬜⬜⬜|
 | 4. | **[MehMatster](./MexMaster.md)**  | Коноплева Анжелика, Кечуткин Игорь,<br>Кривоногов Андрей, Гончарова Вера |🟩🟩⬜⬜⬜⬜⬜|
-| 5. | **[Fridgechef](./fridgechef.md)** | Ева Валиева, Антон Борисов |🟩🟨⬜⬜⬜⬜⬜|
+| 5. | **[Fridgechef](./fridgechef.md)** | Ева Валиева, Антон Борисов |🟩🟩⬜⬜⬜⬜⬜|
 | 6. | **[Match](./match.md)** | Нагорский Артём, Меньшикова Екатерина |🟩🟩⬜⬜⬜⬜⬜|
 | 7. | **[Geocoders](./geocoders.md)** | Григорий Шульга, Казарников Сергей |🟩🟨⬜⬜⬜⬜⬜|
 | 8. | **[Infinity_Investments](https://github.com/georgeY1707/Infinity_Investments/blob/master/README.md)** | Язвинский Георгий, Савченко Михаил |🟩🟩⬜⬜⬜⬜⬜|
