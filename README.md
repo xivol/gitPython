@@ -15,7 +15,7 @@
 | # | Описание | Участники | Вехи |
 |---|----------|:----------|------|
 | 1. | **[Loyalty💸](./loyalty.md)** | Любавский Илья, Мельниченко Роман |🟩🟩⬜⬜⬜⬜⬜|
-| 2. | **[Fizmatik](./fizmatik.md)** | Борисов Роман, Черников Дмитрий |🟩🟨⬜⬜⬜⬜⬜|
+| 2. | **[Fizmatik](https://github.com/Kingrane/Fizmatik/blob/main/README.md)** | Борисов Роман, Черников Дмитрий |🟩🟩⬜⬜⬜⬜⬜|
 | 3. | **[VPBot](https://github.com/VovanDelion/VPBot/blob/master/readme.md)** | Барашев Владимир, Самарин Илья |🟩🟩⬜⬜⬜⬜⬜|
 | 4. | **[MehMatster](./MexMaster.md)**  | Коноплева Анжелика, Кечуткин Игорь,<br>Кривоногов Андрей, Гончарова Вера |🟩🟩⬜⬜⬜⬜⬜|
 | 5. | **[Fridgechef](./fridgechef.md)** | Ева Валиева, Антон Борисов |🟩🟩⬜⬜⬜⬜⬜|
