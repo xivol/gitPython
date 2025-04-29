@@ -25,7 +25,7 @@
 | 9. | **[Prepodavatel.online](https://github.com/ssvXD/devHack_komandochka.git)** | Антон Бегун, Васильев Сергей, Павлова Ярослава |🟩🟨⬜⬜⬜⬜⬜|
 | 10. | **[отдайвинчик](./munuaGLEB.md)** | Зенков Глеб, Варницкая Мария |🟩🟩⬜⬜⬜⬜⬜|
 | 11. | **[Proxyma_CryptoBot](https://github.com/Rostov-on-Don-Komarova/Proxima_CryptoBot/blob/main/README.md)** | Шарков Владимир, Комарова Алёна |🟩🟨⬜⬜⬜⬜⬜|
-| 12. | **[МирУголков](./МирУголков.txt)** | Голованева Дарья, ??? |🟩🟨⬜⬜⬜⬜⬜|
+| 12. | **[МирУголков](https://github.com/Hazart61/no1)** | Голованева Дарья, ??? |🟩🟨⬜⬜⬜⬜⬜|
 
 
 *Это пример* 
